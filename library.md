@@ -1,6 +1,6 @@
 # library
 
-[ [age-series](/) ] [ [contributing](CONTRIBUTING) ] [ [library](LIBRARY) ]
+[ [age-series](/) ] [ [contributing](contributing) ] [ [library](library) ]
 
 Here, you can find various resources related to the mod that might be useful.
 

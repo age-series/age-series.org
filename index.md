@@ -1,6 +1,6 @@
 ### Age Series
 
-[ [age-series](/) ] [ [contributing](CONTRIBUTING) ] [ [library](LIBRARY) ]
+[ [age-series](/) ] [ [contributing](contributing) ] [ [library](library) ]
 
 Welcome to the Age Series website. We're a team of developers that bring you the following Minecraft mods:
 
