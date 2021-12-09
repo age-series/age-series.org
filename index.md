@@ -1,4 +1,4 @@
-### Age Series
+# Age Series
 
 [ [age-series](/) ] [ [contribute](contribute) ] [ [library](library) ]
 

@@ -1,4 +1,4 @@
-# library
+# Library
 
 [ [age-series](/) ] [ [contribute](contribute) ] [ [library](library) ]
 
