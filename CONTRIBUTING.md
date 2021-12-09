@@ -1,5 +1,7 @@
 # Contributing to Age Series
 
+[ [age-series](/) ] [ [contributing](CONTRIBUTING) ] [ [library](LIBRARY) ]
+
 Feel free to introduce yourself on our [Discord](https://discord.gg/YjK2JAD)!
 
 You can make pull requests or issues, but please note that we are currently focused on making the mod functional, before adding major content and reviewing game balance.

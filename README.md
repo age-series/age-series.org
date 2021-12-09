@@ -1,5 +1,7 @@
 ### Age Series
 
+[ [age-series](/) ] [ [contributing](CONTRIBUTING) ] [ [library](LIBRARY) ]
+
 Welcome to the Age Series website. We're a team of developers that bring you the following Minecraft mods:
 
 * Electrical Age 2: A mod about electrical simulations

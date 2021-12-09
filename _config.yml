@@ -1,11 +1,1 @@
 theme: jekyll-theme-slate
-
-docs:
-  - title: Age Series
-    url: README.md
-
-  - title: Contributing
-    url: CONTRIBUTING.md
-
-  - title: Library
-    url: LIBRARY.md

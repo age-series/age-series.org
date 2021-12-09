@@ -1,5 +1,7 @@
 # library
 
+[ [age-series](/) ] [ [contributing](CONTRIBUTING) ] [ [library](LIBRARY) ]
+
 Here, you can find various resources related to the mod that might be useful.
 
 Also, check out the Eln2 design [google drive](https://drive.google.com/drive/folders/1rWXCEy9EQmKbeYGKnJssirRZnXX0fHkj).
