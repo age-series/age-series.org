@@ -1,6 +1,6 @@
 # Contributing to Age Series
 
-[ [age-series](/) ] [ [contributing](contributing) ] [ [library](library) ]
+[ [age-series](/) ] [ [contribute](contribute) ] [ [library](library) ]
 
 Feel free to introduce yourself on our [Discord](https://discord.gg/YjK2JAD)!
 
