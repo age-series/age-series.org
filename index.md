@@ -9,5 +9,6 @@ Welcome to the Age Series website. We're a team of developers that bring you the
 * Processor Age: A mod based around 80's 8 bit computing
 * Server Age: A mod about using real computing power in Minecraft
 * Chemistry Age: A mod about chemistry
+* Security Age: A mod about securing your house or base.
 
 These mods are currently under development for Minecraft 1.18 using Forge.
