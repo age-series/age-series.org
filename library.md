@@ -1,6 +1,6 @@
 # Library
 
-[ [age-series](/) ] [ [contribute](contribute) ] [ [library](library) ]
+[ [age-series](/) ] [ [GitHub](https://github.com/age-series) ] [ [contribute](contribute) ] [ [library](library) ]
 
 Here, you can find various resources related to the mod that might be useful.
 
