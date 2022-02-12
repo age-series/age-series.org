@@ -1,6 +1,6 @@
 # Electrical Age 2
 
-[ [age-series](/) ] [ [ [GitHub](https://github.com/age-series) ] [contribute](../contribute) ] [ [library](../library) ]
+[ [age-series](/) ] [ [GitHub](https://github.com/age-series) ] [contribute](../contribute) ] [ [library](../library) ]
 
 [ [Electricity](electrical-age.md) ] [ [Servers](server-age.md) ] [ [Chat](chat-age.md) ] [ [Processing](processing-age.md) ] [ [Processors](processor-age.md) ] [ [Chemistry](chemistry-age.md) ] [ [Security](security-age.md) ]
 
