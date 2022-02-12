@@ -47,10 +47,11 @@ You need:
 * Java 17 SDK. There are a few options:
     * Oracle Java 17 SDK [[link](https://www.oracle.com/java/technologies/downloads/)]
     * Amazon Corretto 17 [[link](https://docs.aws.amazon.com/corretto/latest/corretto-17-ug/downloads-list.html)]
+    * Adoptium OpenJDK [[link](https://adoptium.net/)]
     * .deb based: `apt install openjdk-17-jdk`
     * Arch Linux based: `pacman -Syu jdk-openjdk`
 
-I looked up some other JDK's, but IBM doesn't have anything newer than 11 and AdoptOpenJDK only has 16. I also could not find out how to install openjdk 17 on RHEL or Fedora easily.
+I looked up some other JDK's, but IBM doesn't have anything newer than 11. I also could not find out how to install openjdk 17 on RHEL or Fedora easily.
 
 ### Clone the repository
 
