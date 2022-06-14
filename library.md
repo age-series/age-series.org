@@ -20,6 +20,9 @@ Also, check out the Eln2 design [google drive](https://drive.google.com/drive/fo
 * [https://www.analog.com/en/design-center/simulation-models/spice-models.html](https://www.analog.com/en/design-center/simulation-models/spice-models.html)
   * Some sample SPICE circuits. Might want to add compatibility later.
 
+* [https://qucs.github.io/docs/technical/technical.pdf](https://qucs.github.io/docs/technical/technical.pdf)
+  * Paper about simulation methods
+
 ## Real life electrical grid data
 
 * [https://www.swissgrid.ch/en/home.html](https://www.swissgrid.ch/en/home.html)
